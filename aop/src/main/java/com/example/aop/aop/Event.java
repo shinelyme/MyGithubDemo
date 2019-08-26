@@ -1,7 +1,5 @@
 package com.example.aop.aop;
 
-import android.annotation.TargetApi;
-
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
